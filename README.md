@@ -2,7 +2,6 @@
 
 ## About Me  
 - 👀 **Interests**: Programming, Cybersecurity, and Web Development.  
-- 🌱 **Currently Learning**: Advanced Cybersecurity techniques and Backend Development.  
 - 🛠️ **Tech Stack**:  
   - Programming Languages: Python and Java.  
   - Web Development: HTML, CSS.  
