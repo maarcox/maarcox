@@ -4,9 +4,9 @@
 - 👀 **Interests**: Programming, Cybersecurity, and Web Development.  
 - 🌱 **Currently Learning**: Advanced Cybersecurity techniques and Backend Development.  
 - 🛠️ **Tech Stack**:  
-  - Programming Languages: Python, C++, and a bit of Go.  
-  - Web Development: HTML, CSS (No JavaScript!).  
-  - Tools & Platforms: Linux, Git, Docker.  
+  - Programming Languages: Python and Java.  
+  - Web Development: HTML, CSS.  
+  - Tools & Platforms: Linux, Git, Visual Studio, IntelliJ IDEA, Photoshop, DaVinci Resolve, Cisco, AWS.  
 
 ## Goals  
 - 💞️ Looking to collaborate on projects related to cybersecurity tools, secure web apps, and open-source initiatives.  
